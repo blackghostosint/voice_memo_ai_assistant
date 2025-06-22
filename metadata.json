@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Voice Memo AI Assistant",
+  "description": "A web application to record voice memos, transcribe them using AI, and interact with the transcripts via a Gemini-powered chat. Recordings and transcripts can be downloaded. Automatic Google Drive upload is not supported due to client-side limitations; a backend service would be required for that feature.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
